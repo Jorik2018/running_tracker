@@ -22,3 +22,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/karuna
 ### License
 
 The project is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+
+https://medium.com/@AlexanderObregon/building-restful-apis-with-ruby-d5ac54be12e4
